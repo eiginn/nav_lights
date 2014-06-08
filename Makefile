@@ -1,4 +1,4 @@
-BOARD_TAG   = micro
+BOARD_TAG   = yun
 ARDUINO_DIR = ~/arduino-1.5.6-r2
 PORT        = /dev/ttyACM0
 FILE        = nav_lights.pde
